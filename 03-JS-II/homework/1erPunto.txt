@@ -1,0 +1,6 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `for`: Es una de las formas en que podemos decirle a la maquina que repita muchas veces un proceso hasta que se cumpla el escenario donde le dijimos que pare y si es el caso continue a un siguiente proceso. Con 'for' tenemos la ventaja de decirle donde queremos arrancar o que vamos a repetir, donde queremos frenar y de que forma va a ir incrementando.
+
+
+* `&&`, `||`, `!`: Se les llama 'Operadores Logicos' y se utilizan cuando yo quiero comparar valores en terminos de Falso y Verdadero teniendo en cuenta si se cumple alguna caracteristica que yo le he dado. '&&' significa 'Y' y lo utilizamos para dar a entender que se deben cumplir todas las condiciones para ser verdadera; '||' significa 'O' y se usa cuando se puede dar una de las condiciones e igual va a ser verdadero; y por ultimo '!' que significa 'NO' y este va a arrojar lo contrario del resultado normal, por ejemplo si la operacion da verdadero el sistema va a mostrar falso y asi en sentido contrario. 
