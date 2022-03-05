@@ -1,0 +1,8 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Objetos: Es muy parecido a los Arreglos pero mucho mas manejables. Al ver Objetos nos damos cuenta que todo en JS se trata de objetos y lo que hacemos en general es darle atributos en sus propiedades para que hagan alguna respectiva tarea.
+
+	* Propiedades: Son los valores que le asignamos a los objetos; estos pueden ser de cualquier tipo (strings, valores numericos, booleanos, arreglos... etc)
+	* Métodos: Es cuando el valor que damos en alguna de las propiedades de un objeto es una "function", la cual podremos invocar sin ningun problemas con el fin de ejecutar algo con el objeto.
+	* Bucle `for…in`: Su funcionamiento es parecido al "for" en los arraglos pero lo que busca es iterar entre las propiedades de un objeto; "for" itera entre los valores que se encuentran dentro de los [] y "for...in" entre las propiedades que se encuentran dentro de los {} del objeto. 
+	* Notación de puntos vs notación de corchetes: La "Notacion de puntos" es una herramienta para trabajar de manera mas rapida con la desventaja de que el sistema lo entiende de manera literal; pero con la "Notacion de Corchetes" aunque pueden ser un poco mas larga a la hora de escribir, puedes trabajar perfectamente con variables a la hora de querer modificar propiedades de objetos.
